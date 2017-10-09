@@ -24,6 +24,9 @@
   "extra": {
     "zf": {
       "module": "MassimoFilippi\\LogModule"
+    },
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
     }
   }
 }
